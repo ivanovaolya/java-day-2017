@@ -20,4 +20,7 @@ dependencies {
     testCompile("org.junit.jupiter:junit-jupiter-api:${junitJupiterVersion}")
     testRuntime("org.junit.jupiter:junit-jupiter-engine:${junitJupiterVersion}")
 
+    /** Utility **/
+    compile group: 'org.jooq', name: 'jool', version: '0.9.12'
+
 }

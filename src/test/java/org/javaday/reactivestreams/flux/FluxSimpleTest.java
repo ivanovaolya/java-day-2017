@@ -1,4 +1,4 @@
-package org.javaday.reactivestreams;
+package org.javaday.reactivestreams.flux;
 
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Tag;
